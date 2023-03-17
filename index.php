@@ -15,11 +15,12 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
   </head>
   <body>
-    
+    <body style="background-color:black;">
 
-    <?php echo "<p style='color:Green; text-align:center; font-family:Lucida, monospace; font-size:25px; border:5px red solid; background-color:black;'>Benvenuti nel sito della contrada</p>";?>
+    
+    <?php echo "<p style='color:White; text-align:center;  font-family:Lucida, monospace; border-radius: 65%; font-size:40px; border:5px red solid; background-color:black;'>Benvenuti nel sito della contrada</p>";?>
     <br>
-    <img src="contrada.jpg">
+    <img src="contrada.jpg" >
     
   
   
