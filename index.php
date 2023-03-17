@@ -1,14 +1,26 @@
 <!doctype html>
 <html lang="en">
   <head>
-    <link rel="stylesheet" href="style.php">
+    <link rel="stylesheet" type="text/css" href="style.php">
+    <style>
+  .test-box {
+    width: 10%;
+    height: 10%;
+    background-color: green;
+  }
+    </style>
      <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Demo sito contrada</title>
+    <title>Contrada</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
   </head>
   <body>
-    <?php echo "Benvenuto nel pseudo sito della contrada"  ;?>
+    
+
+    <?php echo "<p style='color:Green; text-align:center; font-family:Lucida, monospace; font-size:25px; border:5px red solid; background-color:black;'>Benvenuti nel sito della contrada</p>";?>
+    <br>
+    <img src="contrada.jpg">
+    
   
   
   
@@ -16,8 +28,7 @@
   
   
   
-  
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+
   </body>
 </html>
 
