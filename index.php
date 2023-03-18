@@ -17,15 +17,21 @@
         <h1>Seleziona che servizio vuoi utilizzare:</h1>
     <div id="h2">
       <div id="time-box">
-        <h2>Time converter </h2>
+      <a href="timeconv.php" >
+        <h2>Time converter</h2>
+      </a>  
       </div>
       <div id="h2">
         <div id="spotbox">
+        <a href="spotconv.php" >
           <h2>Spotify converter</h2>
+        </a>
       </div>
       <div id="h2">
         <div id="meteo">
-          <h2>Meteo</h2>
+        <a href="meteo.php">
+            <h2>Meteo</h2>
+        </a>
       </div>  
 
   </body>

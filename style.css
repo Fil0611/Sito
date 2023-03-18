@@ -4,9 +4,9 @@
     color: white;
     text-align: center;
     font-family: Lucida, monospace;
-    border-radius: 65%;
+    border-radius: 10%;
     font-size:40px;
-    border: 5px red solid;
+    border: 5px white solid;
     background-color: black;
 }
 
